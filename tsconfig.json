@@ -9,7 +9,8 @@
         "strict": false,
         "sourceMap": true,
         "esModuleInterop": true,
-        "declaration": true
+        "declaration": true,
+        "allowSyntheticDefaultImports": true
     },
     "include": ["src/**/*.ts"]
 }
