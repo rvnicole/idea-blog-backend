@@ -39,9 +39,13 @@ https://idea-blog-frontend.vercel.app/
 - ORM Sequelize para manejo de base de datos de PostgreSQL
 - Envío de correos desde el servidor
 
+---
+
 ### 🚀 Instalación
 - npm install
 - npm run dev
+
+---
 
 ### 🔐 Environment Variables
 - URL_DB
