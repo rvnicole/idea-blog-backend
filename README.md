@@ -10,6 +10,11 @@ Este repositorio expone una **API REST** consumida por el frontend.
 ### 🌐 Demo
 https://idea-blog-frontend.vercel.app/
 
+![Demo](./public/auth.gif)
+![Demo](./public/Inicio.gif)
+![Demo](./public/post.gif)
+![Demo](./public/Perfil.gif)
+
 ---
 
 ### ✨ Características
